@@ -1,8 +1,6 @@
 # Building REST services with Spring
 Tutorial from http://spring.io/guides/tutorials/bookmarks/.
 
-#### By: Chris Kuiper
-
 ## Description
 
 This program is a tutorial to practice RESTfull concepts using Spring Boot.
@@ -31,4 +29,3 @@ _Contact can be achieved through Github_
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **By: Chris Kuiper **
